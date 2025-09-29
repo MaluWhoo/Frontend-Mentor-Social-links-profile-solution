@@ -15,7 +15,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 ### Screenshot
 
 <div align="center">
-  <img src="" alt="Desktop view" width=""/>
+  <img src="assets/images/screenshot-solution.jpeg" alt="Desktop view" width=""/>
 </div>
 
 ### Links
